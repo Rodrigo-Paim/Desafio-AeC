@@ -7,7 +7,8 @@ Este projeto tem a finalidade de servir como criterio de aprovação para o proc
 • Busca de endereço por CEP através da API do ViaCEP
 • Exportação de endereços para arquivo CSV
 
-
+## Banco de dados
+a query para criação do banco de encontra na pasta database
 
 ## Start
 ```
